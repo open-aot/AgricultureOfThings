@@ -1,0 +1,4561 @@
+[{
+		"Timestamp": "Thu 17 Oct 16:36:37 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 28,
+		"Temperature": 21
+	},
+	{
+		"Timestamp": "Thu 17 Oct 16:40:39 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 29,
+		"Temperature": 21
+	},
+	{
+		"Timestamp": "Thu 17 Oct 16:44:41 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 16:48:42 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 16:52:44 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 16:56:46 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 17:00:47 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 17:04:49 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 17:08:51 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 34,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 17:12:53 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 34,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 17:16:54 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 35,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 17:20:56 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 34,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 17:24:58 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 34,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 17:28:59 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 35,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 17:33:01 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 35,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 17:37:03 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 36,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 17:41:04 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 36,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 17:45:06 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 36,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 17:49:08 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 36,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 17:53:10 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 37,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 17:57:11 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 39,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 18:01:13 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 39,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 18:05:15 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 39,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 18:09:16 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 39,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 18:13:18 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 39,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 18:17:20 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 39,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 18:21:22 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 40,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 18:25:23 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 18:29:25 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 40,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 18:33:27 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 18:37:28 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 18:41:30 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 18:45:32 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 18:49:34 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 42,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Thu 17 Oct 18:53:35 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 41,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 18:57:37 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 42,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 19:01:39 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 42,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 19:05:41 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 42,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 19:09:42 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 42,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 19:13:44 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 42,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 19:17:46 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 19:21:47 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 19:25:49 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 42,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 19:29:51 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 19:33:53 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 19:37:54 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 19:41:56 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 19:45:58 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 19:50:00 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 19:54:01 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 19:58:03 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 20:02:05 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 20:06:06 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 20:10:08 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 20:14:10 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 20:18:12 EEST 2019",
+		"Moisture": 30.48,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 20:22:13 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 20:26:15 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 20:30:17 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 20:34:19 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 20:38:20 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 20:42:22 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 20:46:24 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 20:50:25 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 20:54:27 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 20:58:29 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 21:02:31 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 21:06:32 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 21:10:34 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 21:14:36 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 21:18:38 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 21:22:39 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 21:26:41 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 21:30:43 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 21:34:44 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 21:38:46 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 21:42:48 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 21:46:50 EEST 2019",
+		"Moisture": 30.00,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 21:50:51 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 21:54:53 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 21:58:55 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 22:02:57 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 22:06:58 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 22:11:00 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 22:15:02 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 22:19:03 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 22:23:05 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 22:27:07 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 22:31:09 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 22:35:10 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 22:39:12 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 22:43:14 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 22:47:15 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 22:51:17 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 22:55:19 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 22:59:21 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 23:03:22 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 23:07:24 EEST 2019",
+		"Moisture": 29.52,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 23:11:26 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 23:15:28 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 23:19:29 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 23:23:31 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 23:27:33 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 23:31:34 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 23:35:36 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 23:39:38 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Thu 17 Oct 23:43:40 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 44,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Thu 17 Oct 23:47:41 EEST 2019",
+		"Moisture": 29.05,
+		"Humidity": 44,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Thu 17 Oct 23:51:43 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 44,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Thu 17 Oct 23:55:45 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 44,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Thu 17 Oct 23:59:46 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 00:03:48 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 00:07:50 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 44,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 00:11:52 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 00:15:53 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 00:19:55 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 00:23:57 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 44,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 00:27:58 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 00:32:00 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 00:36:02 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 00:40:04 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 00:44:05 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 00:48:07 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 00:52:09 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 00:56:11 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 01:00:12 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 01:04:14 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 01:08:16 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 01:12:17 EEST 2019",
+		"Moisture": 28.57,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 01:16:19 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 01:20:21 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 01:24:23 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 01:28:24 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 01:32:26 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 01:36:28 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 01:40:29 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 01:44:31 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 01:48:33 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 01:52:35 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 01:56:36 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 02:00:38 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 02:04:40 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 02:08:42 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 02:12:43 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 02:16:45 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 02:20:47 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 02:24:48 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 02:28:50 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 02:32:52 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 02:36:54 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 02:40:55 EEST 2019",
+		"Moisture": 28.10,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 02:44:57 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 02:48:59 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 02:53:00 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 02:57:02 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 03:01:04 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 03:05:05 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 03:09:07 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 03:13:09 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 03:17:11 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 03:21:12 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 03:25:14 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 03:29:16 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 03:33:17 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 03:37:19 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 03:41:21 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 03:45:22 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 03:49:24 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 03:53:26 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 03:57:28 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 04:01:29 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 04:05:31 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 04:09:33 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 04:13:34 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 04:17:36 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 47,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 04:21:38 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 04:25:39 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 04:29:41 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 04:33:43 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 04:37:45 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 04:41:46 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 04:45:48 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 04:49:50 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 04:53:51 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 04:57:53 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 05:01:55 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 05:05:57 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 05:09:58 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 44,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 05:14:00 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 44,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 05:18:02 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 44,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 05:22:03 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 05:26:05 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 05:30:07 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 05:34:09 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 05:38:10 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 05:42:12 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 05:46:14 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 05:50:15 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 05:54:17 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 05:58:19 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 06:02:21 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 06:06:22 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 06:10:24 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 06:14:26 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 06:18:27 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 06:22:29 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 06:26:31 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 06:30:32 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 06:34:34 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 06:38:36 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 06:42:38 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 06:46:39 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 06:50:41 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 06:54:43 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 06:58:44 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 07:02:46 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 07:06:48 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 07:10:50 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 07:14:51 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 07:18:53 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 07:22:55 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 07:26:56 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 07:30:58 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 07:35:00 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 07:39:02 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 07:43:03 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 07:47:05 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 07:51:07 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 07:55:08 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Fri 18 Oct 07:59:10 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 08:03:12 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 08:07:14 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 08:11:15 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 08:15:17 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 08:19:19 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 08:23:20 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 08:27:22 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 08:31:24 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 08:35:26 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 08:39:27 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 08:43:29 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 08:47:31 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 08:51:32 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 08:55:34 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 08:59:36 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 09:03:38 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 09:07:39 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 44,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 09:11:41 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 44,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 09:15:43 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 44,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 09:19:44 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 44,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 09:23:46 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 44,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 09:27:48 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 44,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 09:31:50 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 44,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 09:35:51 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 43,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 09:39:53 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 43,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 09:43:55 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 42,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 09:47:56 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 41,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 09:51:58 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 42,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 09:56:00 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 42,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 10:00:01 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 42,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 10:04:03 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 41,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 10:08:05 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 39,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 10:12:07 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 39,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 10:16:08 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 34,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 10:20:10 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 32,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 10:24:12 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 32,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 10:28:13 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 31,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 10:32:15 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 32,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 10:36:17 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 10:40:19 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 10:44:20 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 10:48:22 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 10:52:24 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 10:56:25 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 11:00:27 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 11:04:29 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 11:08:30 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 11:12:32 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 11:16:34 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 33,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 11:20:35 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 33,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 11:24:37 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 11:28:39 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 11:32:41 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 29,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 11:36:42 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 11:40:44 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 28,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 11:44:46 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 11:48:47 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 11:52:49 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 11:56:51 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 12:00:53 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 12:04:54 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 12:08:56 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 12:12:58 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 12:16:59 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 12:21:01 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 12:25:03 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 12:29:05 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 12:33:06 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 12:37:08 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 12:41:10 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 29,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 12:45:11 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 29,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 12:49:13 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 25,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 12:53:15 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 21,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 12:57:16 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 18,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 13:01:18 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 18,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 13:05:20 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 18,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 13:09:22 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 18,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 13:13:23 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 18,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 13:17:25 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 18,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 13:21:27 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 18,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 13:25:28 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 13:29:30 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 34,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 13:33:32 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 36,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 13:37:33 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 40,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 13:41:35 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 40,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 13:45:37 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 39,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 13:49:39 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 13:53:40 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 13:57:42 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 14:01:44 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 40,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 14:05:45 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 14:09:47 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 14:13:49 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 42,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 14:17:51 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 14:21:52 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 42,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 14:25:54 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 42,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 14:29:56 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 42,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 14:33:57 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 43,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 14:37:59 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 43,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 14:42:01 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 43,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 14:46:03 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 42,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 14:50:04 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 43,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 14:54:06 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 43,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 14:58:08 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 44,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 15:02:09 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 44,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 15:06:11 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 43,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 15:10:13 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 43,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 15:14:14 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 44,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 15:18:16 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 44,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 15:22:18 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 15:26:20 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 15:30:21 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 15:34:23 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 15:38:25 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 15:42:26 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 15:46:28 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 15:50:30 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 15:54:32 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 15:58:33 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 16:02:35 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 16:06:37 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 16:10:38 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 16:14:40 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 16:18:42 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 16:22:44 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 16:26:45 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 45,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 16:30:47 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 16:34:49 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 16:38:50 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 16:42:52 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 16:46:56 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 16:50:58 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 45,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 16:54:59 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 16:59:01 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 17:03:03 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 17:07:04 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 17:11:06 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 17:15:08 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 17:19:09 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 17:23:11 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 17:27:13 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 47,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 17:31:15 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 17:35:16 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 47,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 17:39:18 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 47,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 17:43:20 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 48,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 17:47:21 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 48,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 17:51:23 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 48,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 17:55:25 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 49,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 17:59:27 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 49,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 18:03:28 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 51,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 18:07:30 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 52,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Fri 18 Oct 18:11:32 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 53,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 18:15:33 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 53,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 18:19:35 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 50,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 18:23:37 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 50,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 18:27:38 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 52,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 18:31:40 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 51,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 18:35:42 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 52,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 18:39:44 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 50,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 18:43:45 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 48,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 18:47:47 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 48,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 18:51:49 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 49,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 18:55:50 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 50,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 18:59:52 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 50,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 19:03:54 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 51,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 19:07:56 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 52,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 19:11:57 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 52,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 19:15:59 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 52,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 19:20:01 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 52,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 19:24:02 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 51,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 19:28:04 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 51,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 19:32:06 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 50,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 19:36:08 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 51,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 19:40:09 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 50,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 19:44:11 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 49,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 19:48:13 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 49,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 19:52:14 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 50,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 19:56:16 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 49,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 20:00:18 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 49,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 20:04:19 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 49,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 20:08:21 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 48,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 20:12:23 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 49,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 20:16:25 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 48,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 20:20:26 EEST 2019",
+		"Moisture": 27.62,
+		"Humidity": 49,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 20:24:28 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 49,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 20:28:30 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 49,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 20:32:31 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 49,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 20:36:35 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 49,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 20:40:37 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 50,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 20:44:39 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 50,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 20:48:40 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 51,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 20:52:42 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 52,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 20:56:44 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 51,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 21:00:45 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 52,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 21:04:47 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 52,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 21:08:49 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 53,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 21:12:51 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 53,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 21:16:52 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 54,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 21:20:54 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 54,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 21:24:56 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 54,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 21:28:57 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 55,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 21:32:59 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 54,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 21:37:01 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 54,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 21:41:05 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 54,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 21:45:06 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 55,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 21:49:08 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 55,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 21:53:10 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 55,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 21:57:11 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 55,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 22:01:13 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 55,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 22:05:15 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 54,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 22:09:17 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 54,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 22:13:18 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 54,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 22:17:20 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 53,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 22:21:22 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 52,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 22:25:23 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 51,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Fri 18 Oct 22:29:25 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 52,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 22:33:27 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 52,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 22:37:29 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 52,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 22:41:30 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 53,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 22:45:32 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 53,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 22:49:34 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 54,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 22:53:35 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 54,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 22:57:37 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 54,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 23:01:39 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 53,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 23:05:40 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 54,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 23:09:42 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 53,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 23:13:44 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 53,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 23:17:46 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 54,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 23:21:47 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 54,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 23:25:49 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 53,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 23:29:51 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 53,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 23:33:52 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 54,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 23:37:54 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 53,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 23:41:56 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 53,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 23:45:57 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 54,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 23:49:59 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 52,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 23:54:01 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 51,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Fri 18 Oct 23:58:03 EEST 2019",
+		"Moisture": 27.14,
+		"Humidity": 50,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 00:02:04 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 50,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 00:06:06 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 50,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 00:10:08 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 50,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 00:14:09 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 49,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 00:18:11 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 49,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 00:22:13 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 49,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 00:26:14 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 49,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 00:30:16 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 49,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 00:34:18 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 49,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 00:38:19 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 49,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 00:42:21 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 49,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 00:46:23 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 49,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 00:50:25 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 48,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 00:54:26 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 48,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 00:58:28 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 48,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 01:02:30 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 48,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 01:06:31 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 47,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 01:10:33 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 48,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 01:14:35 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 48,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 01:18:36 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 47,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 01:22:39 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 01:26:41 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 01:30:42 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 01:34:44 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 01:38:46 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 01:42:48 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 01:46:49 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 44,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 01:50:51 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 44,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 01:54:53 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 44,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 01:58:54 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 44,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 02:02:56 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 44,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 02:06:58 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 44,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 02:11:00 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 43,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 02:15:01 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 43,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 02:19:03 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 42,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 02:23:05 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 42,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 02:27:06 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 41,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 02:31:08 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 39,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 02:35:10 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 39,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 02:39:11 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 39,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 02:43:13 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 36,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 02:47:15 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 35,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 02:51:17 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 34,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 02:55:18 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 35,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 02:59:20 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 35,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 03:03:22 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 35,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 03:07:23 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 36,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 03:11:25 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 33,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 03:15:27 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 34,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 03:19:28 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 35,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 03:23:30 EEST 2019",
+		"Moisture": 26.67,
+		"Humidity": 36,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 03:27:32 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 37,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 03:31:33 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 35,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 03:35:35 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 36,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 03:39:37 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 36,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 03:43:39 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 39,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 03:47:40 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 39,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 03:51:42 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 40,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 03:55:44 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 41,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 03:59:45 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 42,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 04:03:47 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 42,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 04:07:49 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 43,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 04:11:50 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 43,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 04:15:52 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 43,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 04:19:54 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 43,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 04:23:56 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 43,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 04:27:57 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 43,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 04:31:59 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 42,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 04:36:01 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 42,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 04:40:02 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 42,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 04:44:04 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 42,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 04:48:06 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 43,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 04:52:10 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 42,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 04:56:13 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 42,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 05:00:15 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 42,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 05:04:17 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 43,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 05:08:19 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 43,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 05:12:20 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 43,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 05:16:24 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 43,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 05:20:26 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 43,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 05:24:27 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 44,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 05:28:29 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 44,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 05:32:31 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 44,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 05:36:33 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 44,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 05:40:34 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 44,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 05:44:36 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 44,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 05:48:38 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 44,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 05:52:39 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 05:56:41 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 06:00:43 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 06:04:45 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 06:08:46 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 06:12:48 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 06:16:52 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 06:20:54 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 06:24:55 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 06:28:57 EEST 2019",
+		"Moisture": 26.19,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 06:32:59 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 06:37:00 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 06:41:02 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 06:45:04 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 06:49:06 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 06:53:07 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 06:57:09 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 07:01:11 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 07:05:12 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 07:09:14 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 07:13:16 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 07:17:18 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 47,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 07:21:19 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 47,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 07:25:21 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 47,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 07:29:23 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 47,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 07:33:24 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 07:37:26 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 07:41:28 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 07:45:30 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 07:49:31 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 07:53:33 EEST 2019",
+		"Moisture": 25.71,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 07:57:35 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 08:01:36 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 08:05:38 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 08:09:40 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 08:13:42 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 08:17:43 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 08:21:45 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 45,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 08:25:47 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 17
+	},
+	{
+		"Timestamp": "Sat 19 Oct 08:29:48 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 08:33:50 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 08:37:52 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 08:41:54 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 08:45:55 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 08:49:57 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 08:53:59 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 08:58:00 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 09:02:02 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 09:06:04 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 09:10:06 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 09:14:07 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 09:18:09 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 09:22:11 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 09:26:12 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 09:30:14 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 09:34:16 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 09:38:18 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 09:42:19 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 09:46:21 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 09:50:23 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 09:54:24 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 09:58:26 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 45,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 10:02:28 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 10:06:29 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 10:10:31 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 10:14:33 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 10:18:35 EEST 2019",
+		"Moisture": 25.24,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 10:22:36 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 10:26:38 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 10:30:40 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 10:34:41 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 46,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 10:38:43 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 47,
+		"Temperature": 18
+	},
+	{
+		"Timestamp": "Sat 19 Oct 10:42:45 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 45,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 10:46:46 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 45,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 10:50:48 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 45,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 10:54:50 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 46,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 10:58:52 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 46,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 11:02:53 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 47,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 11:06:55 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 46,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 11:10:57 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 47,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 11:14:58 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 47,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 11:19:00 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 46,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 11:23:02 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 46,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 11:27:04 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 46,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 11:31:05 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 46,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 11:35:07 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 46,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 11:39:09 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 45,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 11:43:10 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 45,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 11:47:12 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 46,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 11:51:14 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 45,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 11:55:16 EEST 2019",
+		"Moisture": 24.76,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 11:59:19 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 12:03:21 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 12:07:25 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 45,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 12:11:29 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 12:15:30 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 45,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 12:19:32 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 44,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 12:23:34 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 43,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 12:27:36 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 42,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 12:31:37 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 42,
+		"Temperature": 19
+	},
+	{
+		"Timestamp": "Sat 19 Oct 12:35:39 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 12:39:43 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 12:43:49 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 12:47:51 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 39,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 12:51:52 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 39,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 12:55:54 EEST 2019",
+		"Moisture": 24.29,
+		"Humidity": 39,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 12:59:56 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 36,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 13:03:59 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 35,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 13:08:01 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 36,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 13:12:05 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 35,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 13:16:07 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 36,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 13:20:11 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 35,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 13:24:14 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 33,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 13:28:18 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 33,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 13:32:22 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 34,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 13:36:24 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 34,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 13:40:25 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 36,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 13:44:27 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 37,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 13:48:31 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 37,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 13:52:33 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 38,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 13:56:34 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 39,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 14:00:36 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 39,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 14:04:40 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 40,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 14:08:44 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 39,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 14:12:50 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 39,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 14:16:53 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 37,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 14:20:55 EEST 2019",
+		"Moisture": 23.81,
+		"Humidity": 33,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 14:24:57 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 33,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 14:29:01 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 34,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 14:33:02 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 14:37:04 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 14:41:06 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 29,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 14:45:08 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 14:49:09 EEST 2019",
+		"Moisture": 22.86,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 14:53:11 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 14:57:15 EEST 2019",
+		"Moisture": 22.86,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 15:01:16 EEST 2019",
+		"Moisture": 22.86,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 15:05:18 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 15:09:20 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 34,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 15:13:22 EEST 2019",
+		"Moisture": 23.33,
+		"Humidity": 33,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 15:17:23 EEST 2019",
+		"Moisture": 22.86,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 15:21:25 EEST 2019",
+		"Moisture": 22.86,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 15:25:27 EEST 2019",
+		"Moisture": 22.86,
+		"Humidity": 28,
+		"Temperature": 21
+	},
+	{
+		"Timestamp": "Sat 19 Oct 15:29:28 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 27,
+		"Temperature": 22
+	},
+	{
+		"Timestamp": "Sat 19 Oct 15:33:30 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 17,
+		"Temperature": 22
+	},
+	{
+		"Timestamp": "Sat 19 Oct 15:37:32 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 16,
+		"Temperature": 23
+	},
+	{
+		"Timestamp": "Sat 19 Oct 15:41:34 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 16,
+		"Temperature": 23
+	},
+	{
+		"Timestamp": "Sat 19 Oct 15:45:35 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 15,
+		"Temperature": 23
+	},
+	{
+		"Timestamp": "Sat 19 Oct 15:49:37 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 15,
+		"Temperature": 23
+	},
+	{
+		"Timestamp": "Sat 19 Oct 15:53:39 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 15,
+		"Temperature": 23
+	},
+	{
+		"Timestamp": "Sat 19 Oct 15:57:41 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 15,
+		"Temperature": 23
+	},
+	{
+		"Timestamp": "Sat 19 Oct 16:01:42 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 14,
+		"Temperature": 23
+	},
+	{
+		"Timestamp": "Sat 19 Oct 16:05:44 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 15,
+		"Temperature": 23
+	},
+	{
+		"Timestamp": "Sat 19 Oct 16:09:46 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 15,
+		"Temperature": 23
+	},
+	{
+		"Timestamp": "Sat 19 Oct 16:13:48 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 15,
+		"Temperature": 23
+	},
+	{
+		"Timestamp": "Sat 19 Oct 16:17:51 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 15,
+		"Temperature": 23
+	},
+	{
+		"Timestamp": "Sat 19 Oct 16:21:53 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 17,
+		"Temperature": 22
+	},
+	{
+		"Timestamp": "Sat 19 Oct 16:25:55 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 17,
+		"Temperature": 22
+	},
+	{
+		"Timestamp": "Sat 19 Oct 16:29:57 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 17,
+		"Temperature": 21
+	},
+	{
+		"Timestamp": "Sat 19 Oct 16:33:58 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 17,
+		"Temperature": 21
+	},
+	{
+		"Timestamp": "Sat 19 Oct 16:38:00 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 17,
+		"Temperature": 21
+	},
+	{
+		"Timestamp": "Sat 19 Oct 16:42:02 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 17,
+		"Temperature": 21
+	},
+	{
+		"Timestamp": "Sat 19 Oct 16:46:03 EEST 2019",
+		"Moisture": 22.86,
+		"Humidity": 17,
+		"Temperature": 21
+	},
+	{
+		"Timestamp": "Sat 19 Oct 16:50:05 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 17,
+		"Temperature": 21
+	},
+	{
+		"Timestamp": "Sat 19 Oct 16:54:07 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 17,
+		"Temperature": 21
+	},
+	{
+		"Timestamp": "Sat 19 Oct 16:58:09 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 18,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 17:02:10 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 21,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 17:06:12 EEST 2019",
+		"Moisture": 22.86,
+		"Humidity": 24,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 17:10:14 EEST 2019",
+		"Moisture": 22.86,
+		"Humidity": 25,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 17:14:17 EEST 2019",
+		"Moisture": 22.86,
+		"Humidity": 28,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 17:18:19 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 29,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 17:22:21 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 29,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 17:26:25 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 29,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 17:30:26 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 29,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 17:34:28 EEST 2019",
+		"Moisture": 22.86,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 17:38:30 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 30,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 17:42:32 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 17:46:35 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 17:50:39 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 17:54:41 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 17:58:43 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 31,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 18:02:44 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 18:06:46 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 18:10:48 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 33,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 18:14:49 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 32,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 18:18:51 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 33,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 18:22:55 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 35,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 18:26:59 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 36,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 18:31:00 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 35,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 18:35:02 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 36,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 18:39:06 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 37,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 18:43:08 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 37,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 18:47:09 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 40,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 18:51:13 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 40,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 18:55:15 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 18:59:17 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 41,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 19:03:20 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 42,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 19:07:22 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 42,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 19:11:24 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 43,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 19:15:26 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 43,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 19:19:27 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 43,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 19:23:29 EEST 2019",
+		"Moisture": 22.38,
+		"Humidity": 44,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 19:27:31 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 44,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 19:31:32 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 44,
+		"Temperature": 20
+	},
+	{
+		"Timestamp": "Sat 19 Oct 19:35:36 EEST 2019",
+		"Moisture": 21.90,
+		"Humidity": 45,
+		"Temperature": 20
+	}
+]
