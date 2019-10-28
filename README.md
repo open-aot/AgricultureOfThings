@@ -23,8 +23,8 @@
   - <a href="https://tmrh20.github.io/RF24/">NRF24L01+</a> Library
   - <a href="https://www.instructables.com/id/Install-Nodejs-and-Npm-on-Raspberry-Pi/">NodeJS & Npm</a>
 - Machine Learning
-  - 1
-  - 2
+  - <a href="https://www.python.org/">Python3</a>
+  - <a href="https://www.anaconda.com/distribution/">Anaconda</a>
 - Android Application
   - <a href="https://developer.android.com/studio">Android Studio</a>
 ---
@@ -75,6 +75,10 @@ $ npm start
 ```
 
 ### Machine Learning
+```shell
+$ cd <this repo path>/machine-learning/
+$ python ./__ML_analysis_on_environmental_data__.py
+```
 
 ### Android Application
 - Open Android Studio
