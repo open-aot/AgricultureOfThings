@@ -9,7 +9,7 @@ We presented this project in HiPEAC Students Challenge VII, Bilbao, '19. If you 
 
 # Argriculture Of Things
 
-> Agriculture of Things is a project that uses hardware which is accessible to anyone (Raspberry, Arduino, Sensors) to create a monitoring system that can used in flower pots, gardens or fields and provides information regard the temperature, humidity and soil moisture. Also the data collection can be used to train a machine learning model to determine the optimal time irrigate the plantation
+> Agriculture of Things is a project that uses low-cost hardware (Raspberry, Arduino, Sensors) to deploy a monitoring system that can be used for optimal watering in large fields and provides information regarding the temperature, humidity and soil moisture of the crops on a mobile phone application (or server). We designed and implemented the following system, in which a set of IoT devices collect data DIRECTLY from the field being installed. A server receives these data through frequency transmission, stores them and projects them either in a PC-terminal and/or in a web application in a mobile phone. We also provice analysis, based on ML models, to derive insights on the interplay that Temperature, Humidity and Moisture have on efficient watering. 
 ---
 <img src="./images/scheme.png" >
 
