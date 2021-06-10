@@ -1,9 +1,17 @@
-<img src="./images/scheme.png" >
+
+
+We presented this project in HiPEAC Students Challenge VII, Bilbao, '19. If you use the following tool, don't hecitate to find the reference to the poster we submitted [1].
+
+[1] S. Kastanakis, D. Bakalios, I. Konstantakis, V. Karagiannakis. **"Open Agriculture of Things: Towards An Open Source IoT-based Sustainable Agriculture"**, _2019, High Performance and Embedded Architecture and Compilation, Computing SystemsWeek (HiPEAC CSW Autumn ’19)._
+
+[[Poster] HiPEAC Student Challenge VII '19.pdf](https://github.com/open-aot/AgricultureOfThings/files/6627654/Poster.HiPEAC.Student.Challenge.VII.19.pdf)
+
 
 # Argriculture Of Things
 
 > Agriculture of Things is a project that uses hardware which is accessible to anyone (Raspberry, Arduino, Sensors) to create a monitoring system that can used in flower pots, gardens or fields and provides information regard the temperature, humidity and soil moisture. Also the data collection can be used to train a machine learning model to determine the optimal time irrigate the plantation
 ---
+<img src="./images/scheme.png" >
 
 ## Hardware
 
